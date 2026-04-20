@@ -1,4 +1,4 @@
-# Parituras Simples
+# Partituras Simples
 
 **Estudante:** Felipe Sousa <br>
 
