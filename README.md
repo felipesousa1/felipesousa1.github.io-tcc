@@ -1,8 +1,8 @@
 # Parituras Simples
 
-**Estudante:** Felipe Sousa
+**Estudante:** Felipe Sousa <br>
 
-**Orientador:** Prof. Dr. Pedro
+**Orientador:** Prof. Dr. Pedro <br>
 
 ---
 
