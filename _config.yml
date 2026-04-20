@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: Editor de Partituras para Percussão
 description: TCC de Felipe Sousa dos Santos.
-show_downloads: false
+google_analytics: 
+# As linhas abaixo "limpam" os links automáticos do GitHub
+github:
+  is_project_page: false
