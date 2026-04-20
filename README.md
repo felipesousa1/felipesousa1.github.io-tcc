@@ -1,8 +1,8 @@
 # Parituras Simples
 
 **Estudante:** Felipe Sousa
+
 **Orientador:** Prof. Dr. Pedro
-**Instituição:** IME-USP
 
 ---
 
