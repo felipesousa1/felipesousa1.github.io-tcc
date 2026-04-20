@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 title: TCC - Editor de Partituras para Percussão
 description: Informações sobre a proposta de TCC de Felipe no IME-USP.
 show_downloads: false
