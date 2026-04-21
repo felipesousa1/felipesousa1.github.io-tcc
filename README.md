@@ -1,4 +1,4 @@
-**Estudante:** Felipe Sousa dos Santos<br>
+**Autor:** Felipe Sousa dos Santos<br>
 
 **Orientador:** Pedro Henrique Dias Valle <br>
 
