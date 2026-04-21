@@ -1,5 +1,3 @@
-# Partituras Simples
-
 **Estudante:** Felipe Sousa dos Santos<br>
 
 **Orientador:** Pedro Henrique Dias Valle <br>
